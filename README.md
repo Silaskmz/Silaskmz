@@ -1,14 +1,10 @@
 
-<!DOCTYPE html>
 ### Hi there 👋
+<!DOCTYPE html>
 <html>
 <head>
-  <body>
-<meta charset="UTF-8">
-
-<link rel="icon" href="my_icon.png" type="image/x-icon">
 <style>
-<title>K.AgukaAgro poultry farm's Website</title>
+<title>ECC0006</title>
 body {
   background-image: url("bg-3.jpg");
 }
@@ -72,23 +68,25 @@ li a:hover {
   color: white;
 }
 </style>
-    </head>
+</head>
 <body>
+
+<h2></h2>
+
 <ul>
-  <li><a href="index.html">Home</a></li>
-  <li class="dropdown">
-    <a class="dropbtn">Homeworks</a>
-    <div class="dropdown-content">
-      <a href="Homework_5.pdf">Homework 5</a>
-      <a href="Homework_6.pdf">Homework 6</a>
-      <a href="Homework_7.pdf">Homework 7</a>
-      <a href="Homework_8.html">Homework 8</a>
-      <a href="Homework_9.html">Homework 9</a>
-      <a href="Homework_10.html">Homework 10</a>
-    </div>
-  </li>
-  <li><a href="Project.html">Project</a></li>
-</ul>
+  <li><a href="#home">Home</a></li>
+  <li><div class="dropdown">
+  <button class="dropbtn">homeworks</button>
+  <div class="dropdown-content">
+      <a href="Homework 5.pdf">Homework 5</a>
+      <a href="Homework 6.pdf">Homework 6</a>
+      <a href="Homework 7.pdf">Homework 7</a>
+      <a href="homework8.html">Homework 8</a>
+      <a href="homework_9.html">Homework 9</a>
+      <a href="homework 10.html">Homework 10</a>
+
+  </div>
+</div></li>
 <img src="Impostor.jpg" alt="View" style="width:100%">
 <h1>K.AGUKA AGRO POULTRY FARM</h1>
 <h2>We operate in Rwamagana,Gishali</h2>

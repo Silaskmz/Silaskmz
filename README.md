@@ -3,6 +3,7 @@
 ### Hi there 👋
 <html>
 <head>
+  <body>
 <meta charset="UTF-8">
 
 <link rel="icon" href="my_icon.png" type="image/x-icon">

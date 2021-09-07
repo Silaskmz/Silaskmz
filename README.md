@@ -1,13 +1,13 @@
 
 <!DOCTYPE html>
 ### Hi there 👋
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
-<title>K.AgukaAgro poultry farm's Website</title>
+
 <link rel="icon" href="my_icon.png" type="image/x-icon">
 <style>
-<title>ECC0006</title>
+<title>K.AgukaAgro poultry farm's Website</title>
 body {
   background-image: url("bg-3.jpg");
 }

@@ -4,7 +4,7 @@
 <html>
 <head>
 <style>
-<title>ECC0006</title>
+<title>KAGUKA AGRO POULTRY FARM</title>
 body {
   background-image: url("bg-3.jpg");
 }
@@ -76,14 +76,11 @@ li a:hover {
 <ul>
   <li><a href="#home">Home</a></li>
   <li><div class="dropdown">
-  <button class="dropbtn">homeworks</button>
+  <button class="dropbtn">Get to know us</button>
   <div class="dropdown-content">
-      <a href="Homework 5.pdf">Homework 5</a>
-      <a href="Homework 6.pdf">Homework 6</a>
-      <a href="Homework 7.pdf">Homework 7</a>
-      <a href="homework8.html">Homework 8</a>
-      <a href="homework_9.html">Homework 9</a>
-      <a href="homework 10.html">Homework 10</a>
+      <a href="Home.pdf">HOME</a>
+      <a href="About-us.pdf">About us</a>
+      
 
   </div>
 </div></li>

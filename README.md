@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
 <meta charset="UTF-8">
 <title>Axel Ntwali's Website</title>
 <link rel="icon" href="my_icon.png" type="image/x-icon">
@@ -78,22 +78,9 @@ li.dropdown {
   <li><a href="Project.html">Project</a></li>
 </ul>
 <img src="Impostor.jpg" alt="View" style="width:100%">
-<h1>My name is Axel Ntwali</h1>
-<h2>My student number is 20193441</h2>
-<p>I like video games.</p>
+<h1>K.AGUKA AGRO POULTRY FARM</h1>
+<h2>We operate in Rwamagana,Gishali</h2>
+<p>Always at your service.</p>
 </body>
 
-<!--
-**Silaskmz/Silaskmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
